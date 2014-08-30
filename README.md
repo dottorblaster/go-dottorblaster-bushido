@@ -16,3 +16,4 @@ A list of awesome docs, examples, exercises, curated by Alessio "Bl@ster" Bianca
 - [forgery](http://goforgery.appspot.com/)
 - [Revel](http://revel.github.io/)
 - [Martini](http://martini.codegangsta.io/)
+- [Negroni](http://negroni.codegangsta.io/)
