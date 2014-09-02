@@ -11,7 +11,7 @@ A list of awesome docs, examples, exercises, curated by Alessio "Bl@ster" Bianca
 - [The golang package for Ubuntu](https://code.google.com/p/go-wiki/wiki/Ubuntu)
 - [In-flight .deb packages of Go](http://blog.labix.org/2013/06/15/in-flight-deb-packages-of-go)
 
-### MVC frameworks :boar:
+## MVC frameworks :boar:
 - [Gorilla mux](http://www.gorillatoolkit.org/pkg/mux)
 - [go-restful](https://github.com/emicklei/go-restful)
 - [forgery](http://goforgery.appspot.com/)
